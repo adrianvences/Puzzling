@@ -5,6 +5,7 @@ public class PuzzleTest {
       // test.getTenRolls();
     // System.out.println(test.getRandomLetter()); 
     System.out.println(test.generatePassword()); 
+    System.out.println(test.getNewPasswordSet(4)); 
     
   }
 }
